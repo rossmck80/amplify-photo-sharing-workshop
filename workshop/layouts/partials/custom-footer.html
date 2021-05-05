@@ -1,0 +1,13 @@
+
+<div id = 'cookieConsent' title = "{{ $.Site.Params.contentversion}}"/></div>
+
+<script src="{{"js/shortbread.js" | relURL}}"></script>
+
+<script>
+    const shortbread = AWSCShortbread({
+    parent: document.querySelector("#cookieConsent"),
+    domain: ".awsanz.com",
+});
+shortbread.checkForCookieConsent(); 
+
+</script>
