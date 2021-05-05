@@ -1,4 +1,4 @@
-# amplify-photo-sharing-workshop-ANZ
+# amplify-photo-sharing-workshop
 
 This workshop was built with Hugo, based upon the Really Useful Aws-workshop-template.
 
@@ -15,7 +15,7 @@ If you would like to run this locally, you'll need to have Hugo installed.
 All command line directions in this documentation assume you are in the `workshop` directory. Navigate there now, if you aren't there already.
 
 ```bash
-cd amplify-photo-sharing-workshop-ANZ/workshop
+cd amplify-photo-sharing-workshop/workshop
 ```
 
 Launch by using the following command:

@@ -1,5 +1,5 @@
 +++
-title = "Amplify Days ANZ"
+title = "Amplify Photo Sharing Workshop"
 chapter = true
 weight = 1
 +++
