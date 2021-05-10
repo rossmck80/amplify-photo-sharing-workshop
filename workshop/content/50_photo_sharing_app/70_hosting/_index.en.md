@@ -17,7 +17,7 @@ $ git add .
 
 $ git commit -m 'initial commit'
 
-$ git push origin master
+$ git push origin main
 ```
 
 Next we'll visit the Amplify Console for the app we've already deployed:
@@ -36,4 +36,4 @@ In the next screen, we'll create a new role & use this role to allow the Amplify
 
 Finally, we can click __Save and Deploy__ to deploy our application!
 
-Now, we can push updates to Master to update our application.
+Now, we can push updates to Main to update our application.
